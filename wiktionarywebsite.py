@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import unicodedata
 import asyncio
 import aiohttp
+import os
 
 def dialect_converter(dialect):
     dialect = dialect.title()
