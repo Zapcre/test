@@ -1,0 +1,5 @@
+flask
+aiohttp
+beautifulsoup4
+chinese-converter
+asyncio
